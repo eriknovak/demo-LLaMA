@@ -1,0 +1,12 @@
+numpy
+pandas
+jupyter
+ipywidgets
+ipykernel
+torch
+transformers
+sentencepiece
+gradio==3.13.0
+python-dotenv
+black
+altair
